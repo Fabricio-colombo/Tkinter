@@ -11,5 +11,3 @@ botao1.pack()
 entry = tk.Entry(root)
 entry.pack(pady=5)
 root.mainloop()
-
-#amanha eu termino essa aberação
