@@ -1,2 +1,7 @@
-Testes de Interface com Tkinter
-Bem-vindo ao repositório "Tkinter". Este espaço é dedicado à exploração e realização de testes em interfaces gráficas utilizando a biblioteca Tkinter. Aqui, você encontrará projetos e experimentos relacionados ao desenvolvimento de interfaces intuitivas e interativas.
+# Interface Testing with Tkinter
+
+Welcome to the "Tkinter" repository. This space is dedicated to exploring and conducting tests on graphical interfaces using the Tkinter library. Here, you will find projects and experiments related to the development of intuitive and interactive interfaces.
+
+## Repositories Information
+
+Feel free to explore other repositories in my profile for more projects and code related to software engineering, technology, and programming languages.
